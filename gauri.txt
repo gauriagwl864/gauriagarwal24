@@ -1,5 +1,2 @@
-Name: Gauri Agarwal
-Course: B.Tech
-Year: 3rd Year-Engineering
-Skills: Java,git
-Project: Smart Agriculture System
+Branch: GLA 
+Section: FA2
